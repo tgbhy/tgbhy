@@ -1,5 +1,19 @@
-## Hi there 👋
+## Hi, I'm tgbhy <img src="https://avatars.githubusercontent.com/u/81264732?v=4" width=50px>
 
+## I'm a developper and I'm working on... 👀
+- 🦆 [Antasia Network](https://antasia.fr/)
+- ⏲ [Elysium SCP: SL](https://elysium.tgbhy.fr/)
+- 💕 Open sources projets like [GeodeSDK](https://geode-sdk.org)
+
+## You can find me... 📞
+- On [my website](https://tgbhy.fr/)
+- On [discord](https://discord.com/users/530791027817316395)
+- Via email (contact@tgbhy.fr)
+
+## Currently learning... 📚
+- In High School
+- C# programming language
+ 
 <!--
 **tgbhy/tgbhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
